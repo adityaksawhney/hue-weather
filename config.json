@@ -1,0 +1,9 @@
+{
+  "weather": {
+    "base_url":"http://api.openweathermap.org/data/2.5/weather?",
+    "apikey":"a64edbe6338777fcfe17e9b5bc45b438"
+  },
+  "location": {
+    "base_url":"http://freegeoip.net/json"
+  }
+}
