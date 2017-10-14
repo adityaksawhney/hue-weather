@@ -5,5 +5,10 @@
   },
   "location": {
     "base_url":"http://freegeoip.net/json"
+  },
+  "hue": {
+    "bridge": {
+      "ip_url":"https://www.meethue.com/api/nupnp"
+    }
   }
 }
